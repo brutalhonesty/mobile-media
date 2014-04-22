@@ -20,6 +20,9 @@ $ brew install automake fdk-aac git lame libass libtool libvorbis libvpx opus sd
 # Install ffmpeg with aac audio encoding and .ass subtitles (Other lines were just in case).
 $ brew install ffmpeg --with-fdk-aac --with-libass --with-libvorbis --with-libvpx
 
+# Install mkvextract tool
+# brew install mkvtoolnix
+
 # Download repo
 $ git clone <repo>.git /path/to/repo
 $ cd /path/to/repo
