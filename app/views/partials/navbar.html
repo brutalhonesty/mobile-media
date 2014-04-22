@@ -1,0 +1,8 @@
+<div class="pure-menu pure-menu-open pure-menu-horizontal" ng-controller="NavbarCtrl">
+  <a href="#" class="pure-menu-heading">Mobile Anime</a>
+  <ul>
+    <li ng-repeat="item in menu" ng-class="{'pure-menu-selected': isActive(item.link)}">
+        <a ng-href="{{item.link}}">{{item.title}}</a>
+    </li>
+  </ul>
+</div>
