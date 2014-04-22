@@ -1,7 +1,7 @@
 {
-  "name": "mobileanime",
+  "name": "mobile-media",
   "version": "0.0.1",
-  "description": "Convert Anime for Mobile Use",
+  "description": "Convert Media for Mobile Use",
   "dependencies": {
     "express": "~4.0.0",
     "morgan": "~1.0.0",
