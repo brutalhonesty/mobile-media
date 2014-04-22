@@ -32,6 +32,7 @@ $ grunt serve
 
 # Create production use
 $ grunt build
+```
 
 Testing
 -------
