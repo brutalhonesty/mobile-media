@@ -21,7 +21,7 @@ $ brew install automake fdk-aac git lame libass libtool libvorbis libvpx opus sd
 $ brew install ffmpeg --with-fdk-aac --with-libass --with-libvorbis --with-libvpx
 
 # Install mkvextract tool
-# brew install mkvtoolnix
+$ brew install mkvtoolnix
 
 # Download repo
 $ git clone <repo>.git /path/to/repo
